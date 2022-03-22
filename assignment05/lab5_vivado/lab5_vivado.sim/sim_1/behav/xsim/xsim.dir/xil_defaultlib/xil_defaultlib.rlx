@@ -1,0 +1,20 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/auxdec.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/controlunit.v,,auxdec,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/controlunit.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/datapath.v,,controlunit,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/maindec.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/mips/mips.v,,maindec,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/adder.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/alu.v,,adder,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/alu.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/auxdec.v,,alu,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/datapath.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/memory/dmem.v,,datapath,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/dreg.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/memory/imem.v,,dreg,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/mux2.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/regfile.v,,mux2,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/regfile.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/signext.v,,regfile,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/signext.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/testbench/tb_mips_top.v,,signext,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/memory/dmem.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/dreg.v,,dmem,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/memory/imem.v,1647935122,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/control_unit/maindec.v,,imem,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/mips/mips.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/mips/mips_top.v,,mips,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/mips/mips_top.v,1647512711,verilog,,D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/datapath/mux2.v,,mips_top,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_processor_design_1/single_cycle_mips_source_initial/testbench/tb_mips_top.v,1647512711,verilog,,,,tb_mips_top,,,,,,,,
+D:/Documents/cmpe140/assignment05/lab5_vivado/lab5_vivado.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
